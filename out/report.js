@@ -146,14 +146,14 @@ formatter.match({
   "location": "registrationCodersGuru.GoToTheCodersGuruHomePage()"
 });
 formatter.result({
-  "duration": 4565191697,
+  "duration": 6067881964,
   "status": "passed"
 });
 formatter.match({
   "location": "registrationCodersGuru.onTheMainPageClickTheCreateAccountButton()"
 });
 formatter.result({
-  "duration": 305484039,
+  "duration": 557855934,
   "status": "passed"
 });
 formatter.match({
@@ -198,35 +198,35 @@ formatter.match({
   "location": "registrationCodersGuru.completeAllUserRegistrationFields(String,String,String,String,String,String,String,String,String)"
 });
 formatter.result({
-  "duration": 810130720,
+  "duration": 1183551989,
   "status": "passed"
 });
 formatter.match({
   "location": "registrationCodersGuru.clickingTheRegisterButton()"
 });
 formatter.result({
-  "duration": 919775573,
+  "duration": 1284085463,
   "status": "passed"
 });
 formatter.match({
   "location": "registrationCodersGuru.weLogOutTheNewlyRegisteredUser()"
 });
 formatter.result({
-  "duration": 556325068,
+  "duration": 1117783157,
   "status": "passed"
 });
 formatter.match({
   "location": "registrationCodersGuru.weLogInAgainToTheNewlyCreatedUserConfirmingCorrectRegistration()"
 });
 formatter.result({
-  "duration": 1423642215,
+  "duration": 2273196100,
   "status": "passed"
 });
 formatter.match({
   "location": "registrationCodersGuru.closeTheBrowserWindow()"
 });
 formatter.result({
-  "duration": 693195500,
+  "duration": 671987198,
   "status": "passed"
 });
 });
